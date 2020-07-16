@@ -1,4 +1,5 @@
 {
+    "payId": "pay$nhartner.github.io",
     "addresses": [
         {
             "paymentNetwork": "XRPL",
@@ -9,5 +10,11 @@
             }
         }
     ],
-    "payId": "nhartner$xpring.money"
+    "verifiedAddresses": [
+        {
+          "payload": "{\"payid_address\":{\"iss\":\"pay$nhartner.github.io\",\"sub\":\"pay$nhartner.github.io\",\"payid_address\":{\"paymentNetwork\":\"XRPL\",\"environment\":\"MAINNET\",\"addressDetailsType\":\"CryptoAddressDetails\",\"addressDetails\":{\"address\":\"rDk7FQvkQxQQNGTtfM2Fr66s7Nm3k87vdS\"}}}}",
+          "protected": "eyJiNjQiOmZhbHNlLCJjcml0IjpbImI2NCJdLCJqd2siOnsiY3J2IjoiUC01MjEiLCJ4IjoiQVZLcEI2SXVzcGt2eGJPbWJHTzdIdnBEdzZuclJfX19MWjRBamktRGJhVVJNRXVoUmpHUUdJT21Wdm9YMGxRQm4zMkhhQjAxV001c0s3OWgzcUxCZzZRTiIsInkiOiJBVmltck9nWDA3Q0YxQXlGa2ZFRm56Z003NnJ4LTJmSHg0NXNseHpxOENEN1dybGZBQWljN0JwWnBEZUZHWmdZb0t1RmlpTjlfZjlIeEpsZE1ZMXgzUThBIiwia3R5IjoiRUMiLCJraWQiOiIxMjMiLCJhbGciOiJFUzUxMiIsInVzZSI6InNpZyJ9LCJhbGciOiJFUzUxMiJ9",
+          "signature": "APt-_a6y3eyHVh-xUPYojG34cp_MO1KACdu87FFbdUzhYQl_dKOOfh8r4IdH2jsBRU06sEV5ZXFSZJBHpm68WtdvAJ1m3J8O5nc3YQmQIk8VFJKWMIaWYhZcJff8EJADQ_cdVIHaftEE0DUpJx_DF9rY06j7kCLC-CxrOd35dMu7okWS"
+        }
+    ]
 }

@@ -1,0 +1,12 @@
+{
+     "payId": "pay$nhartner.github.io",
+     "addresses": [
+         {
+             "paymentNetwork": "XRPL",
+             "environment": "MAINNET",
+             "details": {
+                 "address": "rP3t3JStqWPYd8H88WfBYh3v84qqYzbHQ6"
+             }
+         }
+     ]
+ }

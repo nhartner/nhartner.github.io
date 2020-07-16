@@ -1,12 +1,13 @@
 {
-     "payId": "pay$nhartner.github.io",
-     "addresses": [
-         {
-             "paymentNetwork": "XRPL",
-             "environment": "MAINNET",
-             "details": {
-                 "address": "rP3t3JStqWPYd8H88WfBYh3v84qqYzbHQ6"
-             }
-         }
-     ]
- }
+    "addresses": [
+        {
+            "paymentNetwork": "XRPL",
+            "environment": "MAINNET",
+            "addressDetailsType": "CryptoAddressDetails",
+            "addressDetails": {
+                "address": "rDk7FQvkQxQQNGTtfM2Fr66s7Nm3k87vdS"
+            }
+        }
+    ],
+    "payId": "nhartner$xpring.money"
+}
